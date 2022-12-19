@@ -10,7 +10,7 @@ on:
 env:
 
   GITHUB_USER_NAME: pp21tig # your github id
-  GITHUB_USER_EMAIL: your_email_addr # your email address
+  GITHUB_USER_EMAIL: pp21@mails.tsinghua.edu.cn # your email address
   
   
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
