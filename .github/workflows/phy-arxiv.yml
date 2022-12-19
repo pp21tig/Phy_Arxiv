@@ -9,7 +9,7 @@ on:
     - cron:  "* 2 * * *"  # Runs every minute of 12th hour
 env:
 
-  GITHUB_USER_NAME: your_github_id # your github id
+  GITHUB_USER_NAME: pp21tig # your github id
   GITHUB_USER_EMAIL: your_email_addr # your email address
   
   
